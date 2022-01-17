@@ -1,4 +1,4 @@
-# GA-B150N-Phoenix-WiFi-OpenCore-EFI
+# Gigabyte B150N Phoenix WiFi OpenCore EFI
 OpenCore bootloader only. 
 Clover bootloader is not supported.
 
